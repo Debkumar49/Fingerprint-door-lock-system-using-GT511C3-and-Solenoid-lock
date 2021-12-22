@@ -15,3 +15,4 @@ EMBEDDED SYSTEMS and BIOMETRICS. Unauthorized access is prohibited by
 designing a lock that stores the fingerprints of one or more authorized users. Fingerprint is 
 sensed by sensor and is validated for authentication. If the fingerprint matches, the door will 
 be opened automatically otherwise it will remain locked.
+
